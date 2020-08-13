@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # Requires PyAudio and PySpeech.
 
+#written by s1ck0
+
 import speech_recognition as sr #pip install speechRecognition
 import datetime
 import wikipedia #pip install wikipedia
